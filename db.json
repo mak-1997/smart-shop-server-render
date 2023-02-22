@@ -10,7 +10,8 @@
       "color": "Red",
       "size": "M",
       "title": "Men Red Checked Round Neck T-shirt",
-      "price": "₹289.00",
+      "price": 289,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -45,7 +46,8 @@
       "color": "Dark Grey",
       "size": "L",
       "title": "Royal Enfield Design 2 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -68,7 +70,8 @@
       "color": "Black",
       "size": "S",
       "title": "Mens Half Sleeves Round Neck-plain",
-      "price": "₹350",
+      "price": 350,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -91,7 +94,8 @@
       "color": "Maroon",
       "size": "XL",
       "title": "Men Maroon Printed Casual Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -125,7 +129,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/IZ/UI/ZN/105112946/4-400x-53678295-a6bd-4e93-bc41-6becd831e4ae-250x250.jpg",
       "color": "XL",
       "title": "Kronos Cotton Polo All Seasons | Men's | Vintage Blue | Kibi Sports",
-      "price": "₹799",
+      "price": 799,
+
       "description": [
         {
           "name": "100% Cotton Blend Premium Fabric"
@@ -151,7 +156,8 @@
       "color": "Red",
       "size": "M",
       "title": "Men Red Printed Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -186,7 +192,8 @@
       "color": "White",
       "size": "4XL",
       "title": "Royal Enfield Design 14 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -209,7 +216,8 @@
       "color": "Black",
       "size": "L",
       "title": "Stag Graphic T-shirt | Kibi Sports",
-      "price": "₹449",
+      "price": 449,
+
       "description": [
         {
           "name": "Care Instructions: Machine Wash"
@@ -243,7 +251,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/VY/UU/RR/105112946/3-400x-9d18a539-523c-444c-a39a-782f9f20e977-250x250.jpg",
       "color": "S",
       "title": "Kronos Cotton Polo All Seasons | Men's | Dapper Pink | Kibi Sports",
-      "price": "₹799",
+      "price": 799,
+
       "description": [
         {
           "name": "100% Cotton Blend Premium Fabric"
@@ -269,7 +278,8 @@
       "color": "Mild Yellow",
       "size": "L",
       "title": "Sportz Fit Mens Half Sleeve Round Neck Sports, Casual T Shirt",
-      "price": "₹199.00 Piece",
+      "price": 199.0,
+
       "description": [
         {
           "name": "Men's sports t-shirt fabric processed feel comfortable and feels light like in the air jersey"
@@ -312,7 +322,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/MP/UN/FM/10883763/mentshirtgreendipdyett1p-250x250.jpg",
       "color": "L",
       "title": "Men Green Dip Dye Round Neck T-shirt",
-      "price": "₹279.00",
+      "price": 279,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -350,7 +361,8 @@
       "color": "Butter Yellow",
       "size": "L",
       "title": "Yeah I Lift | Kibi Sports Merchandise | Half Sleeve T-shirt - Round Neck",
-      "price": "₹499",
+      "price": 499,
+
       "description": [
         {
           "name": "Unisex t-shirt pattern with a regular fit"
@@ -388,7 +400,8 @@
       "color": "Dark Grey",
       "size": "S",
       "title": "Mens Half Sleeves Round Neck-plain",
-      "price": "₹350",
+      "price": 350,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -411,7 +424,8 @@
       "color": "Red",
       "size": "L",
       "title": "Men Red Checked Round Neck T-shirt",
-      "price": "₹289.00",
+      "price": 289,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -445,7 +459,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/SI/ZS/NQ/105112946/untitled-4-400x-5ecdacfc-d8d3-4ce8-afa2-6ec017471075-250x250.jpg",
       "color": "S",
       "title": "Kronos Slim Fit Cotton Polo | Men's | Navy Blue | Kibi Sports",
-      "price": "₹899",
+      "price": 899,
+
       "description": [
         {
           "name": "Cotton Blend"
@@ -468,7 +483,8 @@
       "color": "Green",
       "size": "S",
       "title": "Men Green Tiedye Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -503,7 +519,8 @@
       "color": "Beige",
       "size": "S",
       "title": "Men Beige Printed Casual T-shirt",
-      "price": "₹179.00",
+      "price": 179,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -539,7 +556,8 @@
       "color": "Red",
       "size": "L",
       "title": "Royal Enfield Design 5 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -563,7 +581,8 @@
       "color": "Maroon",
       "size": "L",
       "title": "Men Maroon Printed Round Neck T-shirt",
-      "price": "₹209.00",
+      "price": 209,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -598,7 +617,8 @@
       "color": "Beige",
       "size": "L",
       "title": "Men Beige Typographic Print Round Neck Casual T-shirt",
-      "price": "₹229.00",
+      "price": 229,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -632,7 +652,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/GC/SK/TG/31299794/couple-half-sleeve-round-neck-t-shirt-right-568889-250x250.jpg",
       "color": "Black",
       "title": "Couple Half Sleeve Round Neck T-shirt - Right",
-      "price": "₹995",
+      "price": 995,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -655,7 +676,8 @@
       "color": "Dark Grey",
       "size": "M",
       "title": "Royal Enfield Design 4 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -678,7 +700,8 @@
       "color": "Red",
       "size": "L",
       "title": "Men Red Printed Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -713,7 +736,8 @@
       "color": "Navy Blue",
       "size": "XL",
       "title": "Stag Rapid T-shirt | Kibi Sports",
-      "price": "₹494",
+      "price": 494,
+
       "description": [
         {
           "name": "Brand : STAG"
@@ -742,7 +766,8 @@
       "color": "Grey",
       "size": "4XL",
       "title": "Royal Enfield Design 5 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -765,7 +790,8 @@
       "color": "Green",
       "size": "M",
       "title": "Men Green Tiedye Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -800,7 +826,8 @@
       "color": "Lime Green",
       "size": "XXXL",
       "title": "Fz Forza Larry Men's T-shirt | Kibi Sports",
-      "price": "₹899",
+      "price": 899,
+
       "description": [
         {
           "name": "DRYFORZE: DryForze keeps you comfortable during the game! With the unique DryForze treatment, we ensure maximum comfort. DryForze makes the fabric perspiration transporting, quick drying and super pleasant to wear, and the DryForze capabilities wilI stay with your clothes for much longer than similar technologies. Fabric treated with DryForze has high breathability and a cool wearing Comfort."
@@ -829,7 +856,8 @@
       "color": "Yellow",
       "size": "3XL",
       "title": "Royal Enfield Design 5 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -852,7 +880,8 @@
       "color": "Grey",
       "size": "3XL",
       "title": "Royal Enfield Design 6 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -875,7 +904,8 @@
       "color": "Navy Blue",
       "size": "S",
       "title": "Royal Enfield Design 3 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -898,7 +928,8 @@
       "color": "Black",
       "size": "XXL",
       "title": "Coolblast Vendure Print T Shirt | Men | Kibi Sports",
-      "price": "₹899",
+      "price": 899,
+
       "description": [
         {
           "name": "Fabric:100% Polyester (Cooltex fabric with lifelong sweat wicking)"
@@ -938,7 +969,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/HI/UB/PL/10883763/mentshirtgreendipdyett1p-250x250.jpg",
       "color": "XL",
       "title": "Men Green Dip Dye Round Neck T-shirt",
-      "price": "₹279.00",
+      "price": 279,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -976,7 +1008,8 @@
       "color": "Red",
       "size": "XL",
       "title": "Men Red Printed Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1011,7 +1044,8 @@
       "color": "Black",
       "size": "S",
       "title": "Men Black Colorblock Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1046,7 +1080,8 @@
       "color": "Red",
       "size": "XXL",
       "title": "Men Red Printed Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1081,7 +1116,8 @@
       "color": "White",
       "size": "XXL",
       "title": "Royal Enfield Design 5 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -1104,7 +1140,8 @@
       "color": "Black",
       "size": "L",
       "title": "Just Keep Going | Kibi Sports Merchandise | Half Sleeve T-shirt - Round Neck",
-      "price": "₹449",
+      "price": 449,
+
       "description": [
         {
           "name": "Unisex t-shirt pattern with a regular fit"
@@ -1142,7 +1179,8 @@
       "color": "White",
       "size": "M",
       "title": "Men White Printed Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1177,7 +1215,8 @@
       "color": "Bottle Green",
       "size": "L",
       "title": "Royal Enfield Design 16 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -1200,7 +1239,8 @@
       "color": "Black",
       "size": "M",
       "title": "Men Black Colorblock Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1235,7 +1275,8 @@
       "color": "Yellow",
       "size": "L",
       "title": "Royal Enfield Design 15 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -1258,7 +1299,8 @@
       "color": "Black",
       "size": "XL",
       "title": "Royal Enfield Design 2 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -1282,7 +1324,8 @@
       "color": "Green",
       "size": "L",
       "title": "Men Green Checked Casual Full Sleeve T-shirt",
-      "price": "₹289.00",
+      "price": 289,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1318,7 +1361,8 @@
       "color": "Black",
       "size": "L",
       "title": "Men Black Colorblock Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1353,7 +1397,8 @@
       "color": "Blue",
       "size": "S",
       "title": "Men Royal Blue Solid Polo Neck T-shirt",
-      "price": "₹309.00",
+      "price": 309,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1388,7 +1433,8 @@
       "color": "Beige",
       "size": "XL",
       "title": "Men Beige Typographic Print Round Neck Casual T-shirt",
-      "price": "₹229.00",
+      "price": 229,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1423,7 +1469,8 @@
       "color": "Royal Blue",
       "size": "XXL",
       "title": "Royal Enfield Design 15 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -1446,7 +1493,8 @@
       "color": "Black",
       "size": "XL",
       "title": "Men Black Colorblock Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1481,7 +1529,8 @@
       "color": "Beige",
       "size": "M",
       "title": "Men Beige Printed Casual T-shirt",
-      "price": "₹179.00",
+      "price": 179,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1516,7 +1565,8 @@
       "color": "Mustard Yellow",
       "size": "L",
       "title": "Yeah I Lift | Kibi Sports Merchandise | Half Sleeve T-shirt - Round Neck",
-      "price": "₹499",
+      "price": 499,
+
       "description": [
         {
           "name": "Unisex t-shirt pattern with a regular fit"
@@ -1554,7 +1604,8 @@
       "color": "Maroon",
       "size": "L",
       "title": "Royal Enfield Design 6 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -1577,7 +1628,8 @@
       "color": "Black",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1612,7 +1664,8 @@
       "color": "Green",
       "size": "S",
       "title": "Men Olive Green Printed Round Neck T-shirt",
-      "price": "₹229.00",
+      "price": 229,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1647,7 +1700,8 @@
       "color": "Grey",
       "size": "XXL",
       "title": "Royal Enfield Design 5 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -1669,7 +1723,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/ZW/VM/CA/41742886/1-416406fc-8ab2-43cb-81fe-eb0fee947b76-250x250.png",
       "color": "L",
       "title": "Golden Lion Printed crew neck White T-shirt",
-      "price": "₹499",
+      "price": 499,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1704,7 +1759,8 @@
       "color": "Yellow",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1739,7 +1795,8 @@
       "color": "Red",
       "size": "M",
       "title": "Royal Enfield Design 6 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -1762,7 +1819,8 @@
       "color": "Red",
       "size": "S",
       "title": "Men Red Broad Striped Polo Neck T-shirt",
-      "price": "₹289.00",
+      "price": 289,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1797,7 +1855,8 @@
       "color": "Navy Blue",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1832,7 +1891,8 @@
       "color": "Blue",
       "size": "S",
       "title": "Men Blue Colorblocked Crew Neck Casual T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1867,7 +1927,8 @@
       "color": "GREY",
       "size": "COTTON",
       "title": "DESIGNER T-SHIRT",
-      "price": "₹499",
+      "price": 499,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1902,7 +1963,8 @@
       "color": "Light purple",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1937,7 +1999,8 @@
       "color": "Maroon",
       "size": "XL",
       "title": "Men Maroon Solid Casual Half Sleeve T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -1972,7 +2035,8 @@
       "color": "Black",
       "size": "S",
       "title": "Round Text Plain T Shirt | Kibi Merchandise | Kibi Sports",
-      "price": "₹499",
+      "price": 499,
+
       "description": [
         {
           "name": "Unisex t-shirt pattern with a regular fit"
@@ -2010,7 +2074,8 @@
       "color": "Maroon",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2045,7 +2110,8 @@
       "color": "Red",
       "size": "M",
       "title": "Men Red Broad Striped Polo Neck T-shirt",
-      "price": "₹289.00",
+      "price": 289,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2079,7 +2145,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/GX/OZ/MH/105112946/3-400x-950eb98d-a2f7-48c6-839e-26b0872dd60a-250x250.jpg",
       "color": "S",
       "title": "Kronos Cotton Polo All Seasons | Men's | Aqua | Kibi Sports",
-      "price": "₹799",
+      "price": 799,
+
       "description": [
         {
           "name": "100% Cotton Blend Premium Fabric"
@@ -2105,7 +2172,8 @@
       "color": "Red",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2140,7 +2208,8 @@
       "color": "Navy",
       "size": "M",
       "title": "Men Navy Blue Printed Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2175,7 +2244,8 @@
       "color": "Blue",
       "size": "M",
       "title": "Men Blue Colorblocked Crew Neck Casual T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2210,7 +2280,8 @@
       "color": "White",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2245,7 +2316,8 @@
       "color": "Blue",
       "size": "L",
       "title": "Men Blue Colorblocked Crew Neck Casual T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2280,7 +2352,8 @@
       "color": "Maroon",
       "size": "S",
       "title": "Men Maroon Colorblock Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2315,7 +2388,8 @@
       "color": "Navy Blue",
       "size": "L",
       "title": "Mens Full Sleeves Round Neck-plain",
-      "price": "₹450",
+      "price": 450,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -2338,7 +2412,8 @@
       "color": "Yellow",
       "size": "4XL",
       "title": "Mens Half Sleeves Round Neck-plain",
-      "price": "₹350",
+      "price": 350,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -2361,7 +2436,8 @@
       "color": "Black",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2396,7 +2472,8 @@
       "color": "Blue",
       "size": "XL",
       "title": "Men Blue Colorblocked Crew Neck Casual T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2431,7 +2508,8 @@
       "color": "Blue",
       "size": "XXL",
       "title": "Men Blue Striped Crew Neck Casual T-shirt",
-      "price": "₹229.00",
+      "price": 229,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2466,7 +2544,8 @@
       "color": "Yellow",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2501,7 +2580,8 @@
       "color": "Blue",
       "size": "XXL",
       "title": "Men Blue Colorblocked Crew Neck Casual T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2536,7 +2616,8 @@
       "color": "Yellow",
       "size": "XXL",
       "title": "Royal Enfield Design 7 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -2559,7 +2640,8 @@
       "color": "Navy Blue",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2594,7 +2676,8 @@
       "color": "Maroon",
       "size": "M",
       "title": "Men Maroon Colorblock Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2629,7 +2712,8 @@
       "color": "Pink",
       "size": "S",
       "title": "Royal Enfield Design 8 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -2652,7 +2736,8 @@
       "color": "Yellow",
       "size": "L",
       "title": "Royal Enfield Design 5 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -2675,7 +2760,8 @@
       "color": "Red",
       "size": "M",
       "title": "Stag Repeat T-shirt | Kibi Sports",
-      "price": "₹494",
+      "price": 494,
+
       "description": [
         {
           "name": "Brand : STAG"
@@ -2704,7 +2790,8 @@
       "color": "WHITE",
       "size": "XL",
       "title": "EAGLE FACE DESIGNER T-SHIRT",
-      "price": "₹499",
+      "price": 499,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2739,7 +2826,8 @@
       "color": "Light purple",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2774,7 +2862,8 @@
       "color": "Navy",
       "size": "L",
       "title": "Men Navy Blue Printed Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2809,7 +2898,8 @@
       "color": "MultiColor",
       "size": "S",
       "title": "Men Multicolor Striped Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2844,7 +2934,8 @@
       "color": "Maroon",
       "size": "S",
       "title": "Round Text Plain T Shirt | Kibi Merchandise | Kibi Sports",
-      "price": "₹499",
+      "price": 499,
+
       "description": [
         {
           "name": "Unisex t-shirt pattern with a regular fit"
@@ -2882,7 +2973,8 @@
       "color": "Red",
       "size": "XL",
       "title": "Royal Enfield Design 7 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -2905,7 +2997,8 @@
       "color": "Maroon",
       "size": "Cotton",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -2940,7 +3033,8 @@
       "color": "Teal Green",
       "size": "S",
       "title": "Sportz Fit Mens Half Sleeve Round Neck Sports, Casual T Shirt",
-      "price": "₹199.00",
+      "price": 199,
+
       "description": [
         {
           "name": "Men's sports t-shirt fabric processed feel comfortable and feels light like in the air jersey"
@@ -2984,7 +3078,8 @@
       "color": "Royal Blue",
       "size": "S",
       "title": "Royal Enfield Design 8 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3007,7 +3102,8 @@
       "color": "Yellow",
       "size": "3XL",
       "title": "Royal Enfield Design 2 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3030,7 +3126,8 @@
       "color": "Cotton",
       "size": "M 38",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3065,7 +3162,8 @@
       "color": "White",
       "size": "XL",
       "title": "Redesign Performance Polo T-shirt | Men | Kibi Sports",
-      "price": "₹999",
+      "price": 999,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3100,7 +3198,8 @@
       "color": "Light Blue",
       "size": "L",
       "title": "Royal Enfield Design 4 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3122,7 +3221,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/FB/CD/WN/105112946/3-400x-ac0abd1d-0257-42c7-ab9b-b4541e882402-250x250.jpg",
       "color": "4XL",
       "title": "Kronos Dual-tone Crew Cut | Men's | Sky Blue | Kibi Sports",
-      "price": "₹749",
+      "price": 749,
+
       "description": [
         {
           "name": "PureQuick Dry Fabric"
@@ -3145,7 +3245,8 @@
       "color": "Maroon",
       "size": "L",
       "title": "Men Maroon Colorblock Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3180,7 +3281,8 @@
       "color": "Cotton",
       "size": "L 40",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3215,7 +3317,8 @@
       "color": "Red",
       "size": "M",
       "title": "Men Striped Sleeveless Round Neck Casual T-shirt",
-      "price": "₹189.00",
+      "price": 189,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3250,7 +3353,8 @@
       "color": "Grey",
       "size": "XXL",
       "title": "Royal Enfield Design 2 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3273,7 +3377,8 @@
       "color": "Cotton",
       "size": "XL 42",
       "title": "Men's Cotton Round Neck Combo Tshirt (pack Of 7)",
-      "price": "₹1100.00",
+      "price": 1100,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3308,7 +3413,8 @@
       "color": "Green",
       "size": "L",
       "title": "Men Green Solid Round Neck Casual T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3343,7 +3449,8 @@
       "color": "MultiColor",
       "size": "M",
       "title": "Men Multicolor Striped Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3379,7 +3486,8 @@
       "color": "Grey",
       "size": "L",
       "title": "Men Grey Solid Casual Half Sleeve T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3415,7 +3523,8 @@
       "color": "Navy Blue",
       "size": "4XL",
       "title": "Mens Half Sleeves Round Neck-plain",
-      "price": "₹350",
+      "price": 350,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3438,7 +3547,8 @@
       "color": "Navy",
       "size": "M",
       "title": "Men Navy Printed Round Neck T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3476,7 +3586,8 @@
       "color": "Black",
       "size": "S",
       "title": "Royal Enfield Design 8 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3500,7 +3611,8 @@
       "color": "Yellow",
       "size": "S",
       "title": "Men Mustard Yellow Typographic Print Casual T-shirt",
-      "price": "₹229.00",
+      "price": 229,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3535,7 +3647,8 @@
       "color": "Maroon",
       "size": "3XL",
       "title": "Royal Enfield Design 6 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3557,7 +3670,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2022/7/UM/XT/AZ/105112946/1-4eb06aed-302e-45d1-8341-0b98c331e4f1-250x250.webp",
       "color": "XL",
       "title": "Ss Professional T-shirt For Men's And Boys - F/s | Kibi Sports",
-      "price": "₹650",
+      "price": 650,
+
       "description": [
         {
           "name": "100 % Polyester yarn contest"
@@ -3583,7 +3697,8 @@
       "color": "Bottle Green",
       "size": "XL",
       "title": "Royal Enfield Design 8 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3606,7 +3721,8 @@
       "color": "Bottle Green",
       "size": "L",
       "title": "Royal Enfield Design 7 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3629,7 +3745,8 @@
       "color": "Grey",
       "size": "M",
       "title": "Royal Enfield Design 2 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3652,7 +3769,8 @@
       "color": "Light Gray",
       "size": "L",
       "title": "Kronos Cotton Polo All Seasons | Men's | Kibi Sports",
-      "price": "₹799",
+      "price": 799,
+
       "description": [
         {
           "name": "100% Cotton Blend Premium Fabric"
@@ -3679,7 +3797,8 @@
       "color": "Maroon",
       "size": "L",
       "title": "Men Maroon Printed Round Neck T-shirt",
-      "price": "₹209.00",
+      "price": 209,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3714,7 +3833,8 @@
       "color": "Navy",
       "size": "L",
       "title": "Men Navy Printed Round Neck T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3752,7 +3872,8 @@
       "color": "Pink",
       "size": "XL",
       "title": "Royal Enfield Design 8 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3775,7 +3896,8 @@
       "color": "Red",
       "size": "L",
       "title": "Men Red & White Tiedye Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -3810,7 +3932,8 @@
       "color": "Light Blue",
       "size": "S",
       "title": "Royal Enfield Design 5 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3833,7 +3956,8 @@
       "color": "Navy Blue",
       "size": "4XL",
       "title": "Royal Enfield Design 3 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3855,7 +3979,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2023/1/YP/AS/IG/105112946/untitled-4-400x-5ecdacfc-d8d3-4ce8-afa2-6ec017471075-250x250.jpg",
       "color": "XL",
       "title": "Kronos Slim Fit Cotton Polo | Men's | Navy Blue | Kibi Sports",
-      "price": "₹899",
+      "price": 899,
+
       "description": [
         {
           "name": "Cotton Blend"
@@ -3878,7 +4003,8 @@
       "color": "Royal Blue",
       "size": "L",
       "title": "Royal Enfield Design 15 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3901,7 +4027,8 @@
       "color": "Bottle Green",
       "size": "M",
       "title": "Royal Enfield Design 15 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3924,7 +4051,8 @@
       "color": "Yellow",
       "size": "4XL",
       "title": "Royal Enfield Design 7 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3947,7 +4075,8 @@
       "color": "Black",
       "size": "4XL",
       "title": "Royal Enfield Design 5 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -3970,7 +4099,8 @@
       "color": "Navy",
       "size": "XL",
       "title": "Men Navy Printed Round Neck T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4007,7 +4137,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2022/7/WC/LO/RJ/105112946/1-6e7ae0ec-3b9b-4b23-8032-8c0f8adfd9bb-250x250.webp",
       "color": "XL",
       "title": "Ss Super Round Neck T-Shirt For Men'S And Boys - H/S | Kibi Sports",
-      "price": "₹608",
+      "price": 608,
+
       "description": [
         {
           "name": "Inter Lock, GSM -160 Hydro Wicking Treatment"
@@ -4034,7 +4165,8 @@
       "color": "Pink",
       "size": "3XL",
       "title": "Royal Enfield Design 14 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4057,7 +4189,8 @@
       "color": "Black",
       "size": "XL",
       "title": "Men Black Printed Round Neck Casual T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4092,7 +4225,8 @@
       "color": "Green",
       "size": "S",
       "title": "Men Green Cameo Printed Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4129,7 +4263,8 @@
       "poster": "https://5.imimg.com/data5/ECOM/Default/2022/7/UD/LM/GG/105112946/1-f5d16a90-a6b4-499d-a424-7ea182d681d6-250x250.webp",
       "color": "XXL",
       "title": "Ss Skin Fit Top Round Neck T-Shirt For Men'S And Boys | Kibi Sports",
-      "price": "₹819",
+      "price": 819,
+
       "description": [
         {
           "name": "Improves Blood Circulation Leading to Better Performance"
@@ -4161,7 +4296,8 @@
       "color": "Maroon",
       "size": "XL",
       "title": "Men Maroon Solid Casual Velvet T-shirt",
-      "price": "₹239.00",
+      "price": 239,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4196,7 +4332,8 @@
       "color": "Navy Blue",
       "size": "S",
       "title": "Mens Half Sleeves Polo Neck-plain",
-      "price": "₹450",
+      "price": 450,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4219,7 +4356,8 @@
       "color": "Maroon",
       "size": "L",
       "title": "Royal Enfield Design 4 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4242,7 +4380,8 @@
       "color": "Royal Blue",
       "size": "XXL",
       "title": "Mens Half Sleeves Polo Neck-plain",
-      "price": "₹450",
+      "price": 450,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4265,7 +4404,8 @@
       "color": "Pink",
       "size": "S",
       "title": "Royal Enfield Design 3 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4288,7 +4428,8 @@
       "color": "Dark Grey",
       "size": "M",
       "title": "Royal Enfield Design 2 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4312,7 +4453,8 @@
       "color": "Grey",
       "size": "L",
       "title": "Men Grey Printed Round Neck T-shirt",
-      "price": "₹279.00",
+      "price": 279,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4347,7 +4489,8 @@
       "color": "Yellow",
       "size": "M",
       "title": "Men Mustard Yellow Typographic Print Casual T-shirt",
-      "price": "₹229.00",
+      "price": 229,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4382,7 +4525,8 @@
       "color": "Dark Violet",
       "size": "L",
       "title": "Sportz Fit Mens Half Sleeve Round Neck Sports, Casual T Shirt",
-      "price": "₹199.00",
+      "price": 199,
+
       "description": [
         {
           "name": "Men's sports t-shirt fabric processed feel comfortable and feels light like in the air jersey"
@@ -4426,7 +4570,8 @@
       "color": "Grey",
       "size": "S",
       "title": "Men Grey Melange Colorblock Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4461,7 +4606,8 @@
       "color": "Red",
       "size": "XL",
       "title": "Men Red & White Tiedye Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4496,7 +4642,8 @@
       "color": "Grey",
       "size": "S",
       "title": "Men Grey Printed Round Neck T-shirt",
-      "price": "₹249.00",
+      "price": 249,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4531,7 +4678,8 @@
       "color": "Dark Grey",
       "size": "3XL",
       "title": "Royal Enfield Design 15 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4554,7 +4702,8 @@
       "color": "Dark Grey",
       "size": "M",
       "title": "Royal Enfield Design 9 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4577,7 +4726,8 @@
       "color": "Grey",
       "size": "M",
       "title": "Men Grey Melange Colorblock Round Neck T-shirt",
-      "price": "₹269.00",
+      "price": 269,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4613,7 +4763,8 @@
       "color": "Bottle Green",
       "size": "XXL",
       "title": "Royal Enfield Design 8 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4636,7 +4787,8 @@
       "color": "Navy Blue",
       "size": "L",
       "title": "Royal Enfield Design 5 Mens Half Sleeves Round Neck",
-      "price": "₹495",
+      "price": 495,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4659,7 +4811,8 @@
       "color": "White",
       "size": "S",
       "title": "Mens Half Sleeves Round Neck-plain",
-      "price": "₹350",
+      "price": 350,
+
       "description": [
         {
           "name": "100% Cotton"
@@ -4683,7 +4836,8 @@
       "color": "Blue",
       "size": "S",
       "title": "Men Blue Striped Crew Neck Casual T-shirt",
-      "price": "₹229.00",
+      "price": 229,
+
       "description": [
         {
           "name": "Country of Origin: India"
@@ -4718,7 +4872,8 @@
       "color": "Navy",
       "size": "S",
       "title": "Men Navy Blue Broad Striped Crew Neck T-shirt",
-      "price": "₹229.00",
+      "price": 229,
+
       "description": [
         {
           "name": "Country of Origin: India"
